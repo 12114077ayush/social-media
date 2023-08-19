@@ -1,0 +1,17 @@
+.sidebarfriendslistitem {
+
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.friendsimages {
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+    /* border-style: solid; */
+    border-color: black;
+    object-fit: cover;
+    margin-right: 20px;
+    position: relative;
+}
